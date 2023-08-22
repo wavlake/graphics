@@ -1,0 +1,35 @@
+{
+  "colors": {
+    "brand-black": {
+      "DEFAULT": "#171817",
+      "light": "#7d7e7d"
+    },
+    "brand-pink": {
+      "DEFAULT": "#f3aef2",
+      "light": "#ffeeff",
+      "dark": "#b36eb2"
+    },
+    "brand-purple": {
+      "DEFAULT": "#ba9bf9"
+    },
+    "brand-beige": {
+      "DEFAULT": "#fff6f1",
+      "dark": "#CCC3BE"
+    },
+    "brand-highlight": {
+      "DEFAULT": "#fffff2"
+    },
+    "brand-down": {
+      "DEFAULT": "#ff4949"
+    },
+    "brand-up": {
+      "DEFAULT": "#5bdeb1"
+    },
+    "brand-orange": {
+      "DEFAULT": "#ffb848"
+    },
+    "brand-mint": {
+      "DEFAULT": "#96f9d4"
+    }
+  }
+}
